@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Users can develop various creative uses on this open mouse. 
   Everyone is welcome to join in joint development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "opengamemouse.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  None
 github_username:  OpenGameMouse
 
